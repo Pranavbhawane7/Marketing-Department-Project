@@ -77,7 +77,7 @@ The dataset includes information about account balances, purchases, cash advance
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Data loading and inspection
 2. Exploratory Data Analysis (EDA)
