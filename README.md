@@ -12,7 +12,7 @@ The project explores **K-Means Clustering, Principal Component Analysis (PCA), a
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Banks serve customers with different spending habits, payment patterns, and financial behaviors. Sending the same marketing offers to every customer can result in ineffective campaigns and missed business opportunities.
 
