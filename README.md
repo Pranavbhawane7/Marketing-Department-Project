@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on segmenting credit card customers based on their spending habits, payment behavior, credit utilization, and transaction patterns.
 
