@@ -20,7 +20,7 @@ Banks serve customers with different spending habits, payment patterns, and fina
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Perform Exploratory Data Analysis (EDA).
 - Identify and handle missing values.
