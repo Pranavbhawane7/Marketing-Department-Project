@@ -33,7 +33,7 @@ Banks serve customers with different spending habits, payment patterns, and fina
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset contains **8,950 customer records and 18 columns**, including a customer identifier and 17 behavioral features.
 
