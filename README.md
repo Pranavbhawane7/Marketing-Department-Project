@@ -147,7 +147,7 @@ The number of clusters alone does not establish which method performs better. Fu
 
 ---
 
-## 💼 Business Applications
+## Business Applications
 
 Customer segmentation can support potential marketing activities such as:
 
