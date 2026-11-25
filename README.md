@@ -192,7 +192,7 @@ Open `marketing_data.ipynb` and run the cells in sequence.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Marketing-Department-Project/
