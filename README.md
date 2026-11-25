@@ -203,7 +203,7 @@ Marketing-Department-Project/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Evaluate clustering performance using silhouette scores.
 - Profile clusters using the original customer features.
@@ -215,7 +215,7 @@ Marketing-Department-Project/
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 
 This project explores how unsupervised machine learning can be used to identify patterns in credit card customer behavior.
 
@@ -225,7 +225,7 @@ The resulting segments can provide a foundation for personalized marketing strat
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Pranav Bhawane**
 
