@@ -93,7 +93,7 @@ The dataset includes information about account balances, purchases, cash advance
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 
