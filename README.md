@@ -64,7 +64,7 @@ The dataset includes information about account balances, purchases, cash advance
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** — Programming language
 - **Pandas** — Data manipulation and analysis
